@@ -24,8 +24,8 @@ The CTX-Logging module requires a SQL database
 
 ### Files
 The CTX-Logging module requires the following files:
-* [CTX-Logging Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v2.0/CTX-Logging.studiopkg)
-* [CTX-Logging Database create script](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v2.0/Cortex-Logging-Install.sql)
+* [CTX-Logging Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v2.1/CTX-Logging.studiopkg)
+* [CTX-Logging Database create script](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v2.1/Cortex-Logging-Install.sql)
 
 ### Other
 The CTX-Logging module has no additional requirements
@@ -46,6 +46,7 @@ Version | Release | Functionality | Notes
 ------------ | ------------- | ----------- | -----------
 v1.0 | 04/12/2018 | Cortex logging | Created
 v2.0 | 11/03/2019 | Cortex logging | Implemented SQL Table Partitioning. <br/>Updated SQL Procedures and Subtask.<br/>This is a breaking change from v1.0 due to DB Schema and Subtask changes.
+v2.1 | 05/06/2019 | Cortex logging | Fixed User issue in SQL Script and updated Documentation (language)
 
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
