@@ -9,6 +9,7 @@ This module contains a Cortex subtask which allows users to log information to t
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other)
+1) [Support and Warranty](#support-and-warranty)
 1) [Installation](#installation)
 1) [How to use](#how-to-use)
 1) [How you can contribute](#how-you-can-contribute)
@@ -29,6 +30,9 @@ The CTX-Logging module requires the following files:
 
 ### Other
 The CTX-Logging module has no additional requirements
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Logging/blob/master/CTX-Logging%20-%20Deployment%20Plan.pdf).
